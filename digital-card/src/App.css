@@ -1,0 +1,116 @@
+body {
+  background-color: #23252c;
+  font-family: Inter;
+}
+/* Info components*/
+
+info {
+  text-align: center;
+  margin: 0;
+
+  background-color: #1a1b21;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.name {
+  color: white;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 6px;
+}
+
+.title {
+  color: #f3bf99;
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 3px;
+  margin-bottom: 9px;
+}
+
+.website {
+  color: #f5f5f5;
+  font-weight: 400;
+  font-size: 10px;
+}
+
+.btn {
+  background-color: white;
+  height: 34px;
+  width: 176px;
+  left: 151px;
+  top: 469px;
+  border-radius: 6px;
+  padding: 9px, 13px, 9px, 11px;
+}
+
+/* About components*/
+
+About,
+Interest {
+  text-align: left;
+  margin: 0;
+  background-color: #1a1b21;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-title {
+  color: #f5f5f5;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 0;
+  padding: 32px 39px 5px 35px;
+}
+.about-prg,
+.interest-prg {
+  font-size: 10px;
+  color: #dcdcdc;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  padding: 0 35px;
+  margin-bottom: 0;
+}
+.interest-prg {
+  padding-bottom: 24px;
+}
+
+/* Interest components*/
+.interest-title {
+  color: #f5f5f5;
+  font-size: 16px;
+  margin: 0;
+  padding: 27px 39px 5px 35px;
+}
+
+/* Footer components*/
+Footer {
+  display: block;
+  text-align: left;
+  margin: 0;
+  background-color: #161619;
+  width: 250px;
+  height: 64px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.btn-2 {
+  background: #918e9b;
+  margin: 20px 10px;
+}
